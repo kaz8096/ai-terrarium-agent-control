@@ -6,22 +6,6 @@ It exists outside the Agent's machine and is intentionally controlled by the Hum
 
 The Agent may read this repository and may create Issues according to `REQUEST_PROTOCOL.md`, but it must not have write access to the repository contents.
 
-## Repository
-
-Control repository:
-
-`YOUR_HUMAN_GITHUB_LOGIN/ai-terrarium-agent-control`
-
-Authorized Human GitHub accounts:
-
-- `YOUR_HUMAN_GITHUB_LOGIN`
-
-Authorized Agent GitHub account:
-
-- `YOUR_AGENT_GITHUB_LOGIN`
-
-Replace the placeholders above before enabling autonomous operation.
-
 ---
 
 ## Purpose
